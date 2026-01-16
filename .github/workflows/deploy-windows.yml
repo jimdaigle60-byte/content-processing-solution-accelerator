@@ -8,7 +8,7 @@ on:
       azure_location:
         description: 'Azure Location For Deployment'
         required: false
-        default: 'australiaeast'
+        default: 'eastus2'
         type: choice
         options:
           - 'australiaeast'
